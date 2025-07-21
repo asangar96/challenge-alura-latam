@@ -32,7 +32,7 @@ Este proyecto tiene como objetivo analizar los datos de ventas y comportamiento 
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/challenge-alura-latam.git
+git clone https://github.com/asangar96/challenge-alura-latam/tree/main
 cd challenge-alura-latam
 pip install -r requirements.txt
 jupyter notebook notebooks/AluraStoreLatam.ipynb
