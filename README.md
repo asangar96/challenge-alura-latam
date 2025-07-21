@@ -33,8 +33,4 @@ Este proyecto tiene como objetivo analizar los datos de ventas y comportamiento 
 
 ```bash
 git clone https://github.com/asangar96/challenge-alura-latam/tree/main
-cd challenge-alura-latam
-pip install -r requirements.txt
-jupyter notebook notebooks/AluraStoreLatam.ipynb
 
-Si quieres, puedo ayudarte a crear también el archivo `requirements.txt` o cualquier otro documento que necesites. ¿Quieres?
