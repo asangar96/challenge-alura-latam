@@ -32,5 +32,5 @@ Este proyecto tiene como objetivo analizar los datos de ventas y comportamiento 
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/asangar96/challenge-alura-latam/tree/main
+https://github.com/asangar96/challenge-alura-latam/tree/main
 
